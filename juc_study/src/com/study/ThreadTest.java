@@ -26,6 +26,7 @@ public class ThreadTest {
 
     private static volatile Object resourceA = new Object();
     private static volatile Object resourceB = new Object();
+
     public static void main(String[] args) {
 
         Thread threadA = new Thread(new Runnable() {

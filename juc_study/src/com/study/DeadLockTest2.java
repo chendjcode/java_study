@@ -12,7 +12,9 @@ public class DeadLockTest2 {
                     System.out.println(Thread.currentThread() + " get ResourceA");
                     try {
                         Thread.sleep(1000);
-                    } catch (InterruptedException e) { e.printStackTrace(); }
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
                     System.out.println(Thread.currentThread() + " waiting get ResourceB");
                     synchronized (resourceB) {
                         System.out.println(Thread.currentThread() + " get ResourceB");
@@ -28,7 +30,9 @@ public class DeadLockTest2 {
                     System.out.println(Thread.currentThread() + " get ResourceB");
                     try {
                         Thread.sleep(1000);
-                    } catch (InterruptedException e) { e.printStackTrace(); }
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
                     System.out.println(Thread.currentThread() + " waiting get ResourceA");
                     synchronized (resourceB) {
                         System.out.println(Thread.currentThread() + " get ResourceA");

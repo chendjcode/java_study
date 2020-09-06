@@ -17,7 +17,7 @@ public class Main {
         System.out.println(s1.hashCode());
         String s2 = new String("hello");
         System.out.println(s2.hashCode());
-        
+
     }
 
     private static Map<DataKey, Integer> getAllData() {

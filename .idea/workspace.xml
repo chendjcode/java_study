@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8f4ddf-f966-42e1-9e9e-902b497f562e" name="Default Changelist" comment="" />
+    <list default="true" id="6265e56c-edf7-4b55-bc23-01b8f9a21975" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/java_study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo0820/src/main/java/com/cdj/demo/test/Mountain.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo0820/src/main/java/com/cdj/demo/test/Mountain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc_study/src/com/study/DeadLockTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc_study/src/com/study/DeadLockTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc_study/src/com/study/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc_study/src/com/study/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc_study/src/com/study/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc_study/src/com/study/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maven_study/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/maven_study/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,36 +41,77 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1gixRyaHMzlq4h4SYLpnCukxnrD" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h8drbwlVHv4Hv2IiaA8PJT0Lie" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/juc_study" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="java_study" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdj.study.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5c8f4ddf-f966-42e1-9e9e-902b497f562e" name="Default Changelist" comment="" />
-      <created>1598611210339</created>
+      <changelist id="6265e56c-edf7-4b55-bc23-01b8f9a21975" name="Default Changelist" comment="" />
+      <created>1599396856139</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598611210339</updated>
-      <workItem from="1598611212226" duration="23000" />
+      <updated>1599396856139</updated>
+      <workItem from="1599396859668" duration="138000" />
+      <workItem from="1599398715791" duration="1065000" />
+      <workItem from="1599400012125" duration="119000" />
+      <workItem from="1599400144165" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1866" y="190" key="FileChooserDialogImpl" timestamp="1598611233970">
-      <screen x="1366" y="0" width="1440" height="870" />
+    <state x="418" y="271" width="424" height="520" key="FileChooserDialogImpl" timestamp="1599400176048">
+      <screen x="0" y="24" width="1280" height="1000" />
     </state>
-    <state x="1866" y="190" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1440.870@1366.0.1440.870" timestamp="1598611233970" />
+    <state x="418" y="271" width="424" height="520" key="FileChooserDialogImpl/0.24.1280.1000/1280.0.1280.1024@0.24.1280.1000" timestamp="1599400176048" />
+    <state x="10" y="222" width="1270" height="599" key="new project wizard" timestamp="1599400203361">
+      <screen x="0" y="24" width="1280" height="1000" />
+    </state>
+    <state x="10" y="222" width="1270" height="599" key="new project wizard/0.24.1280.1000/1280.0.1280.1024@0.24.1280.1000" timestamp="1599400203361" />
   </component>
 </project>
